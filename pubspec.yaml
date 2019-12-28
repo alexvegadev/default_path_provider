@@ -1,6 +1,6 @@
 name: default_path_provider
 description: A plugin that provide path to the default android directories like Downloads, Pictures, etc.
-version: 0.0.2
+version: 0.1.0
 homepage: https://github.com/abhidiwakar/default_path_provider
 
 environment:
