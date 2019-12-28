@@ -17,6 +17,8 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
+  dio:
+  permission_handler:
   default_path_provider:
     path: ../
 
